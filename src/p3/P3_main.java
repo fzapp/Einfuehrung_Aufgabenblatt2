@@ -28,4 +28,4 @@ public class P3_main {
  //i>=j i>=k j<k erwartet:C Test(i=2,j=1,k=2) korrekt
  //i>=j i<k  j>=k erwartet:B Test(nicht mathematisch möglich)
  //i<j  i>=k j>=k erwartet:A Test(i=1,j=2,k=1) korrekt
- //i>=j i>=k j>=k erwartet:- Test(i=1,j=1,k=1)
+ //i>=j i>=k j>=k erwartet:- Test(i=1,j=1,k=1) korrekt
